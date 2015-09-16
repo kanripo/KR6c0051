@@ -1,0 +1,5 @@
+001-0599a00	X 001-0599a	buddhist/X-xuzang/X24/05/X24-0599.png
+001-0600a00	X 001-0600a	buddhist/X-xuzang/X24/06/X24-0600.png
+001-0601a00	X 001-0601a	buddhist/X-xuzang/X24/06/X24-0601.png
+001-0602a00	X 001-0602a	buddhist/X-xuzang/X24/06/X24-0602.png
+001-0603a00	X 001-0603a	buddhist/X-xuzang/X24/06/X24-0603.png
