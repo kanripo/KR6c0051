@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:02.042235
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:48
 #+TITLE: 金剛經采微科
 #+PROPERTY: CBETA_ID X24n0463
 #+PROPERTY: ID KR6c0051
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 24, No. 463
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0051_X_001-0598a> 
 #+PROPERTY: JUAN 1
-No.463¶
-
- 金剛般若經采微科¶
+No. 463¶
+金剛般若經釆微科¶
 ¶
 
   
@@ -95,7 +94,7 @@ No.463¶
   * 初問¶
   * 二答(五)¶
   
-  * 初顯示修行¶
+  * 初顧示修行¶
   * 二顯示集因¶
   * 三顯示善友所攝¶
   * 四顯示福德相應¶
@@ -446,4 +445,4 @@ No.463¶
   * 二流轉無染¶
   * 二四眾奉行¶
 ¶
-金剛般若經采微科(終)
+金剛般若經釆微科(終)
